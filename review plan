@@ -1,5 +1,8 @@
 Technical Stuff
 
+Read the Bluemix Whitepaper and the other documentation from the blogger who passed the certification
+suivre la video de bluemix https://www-304.ibm.com/services/weblectures/dlv/protected/wls/red/html/wviewer.html?course_config=https%3A%2F%2Fwww-304.ibm.com%2Fservices%2Fweblectures%2Fdlv%2Fprotected%2FGateProt.wss%3Fhandler%3DLoginSSL%26sequence%3D4%26action%3Dload_course%26customer%3Dibm%26offering%3Ddvwk%26output%3Djson%26category%3Ddvwk_bmx%26itemCode%3Dltu54620
+
 1)
 - make a node js app, note too hard but fulfilling the twelve factor, with SSO, Data Cache, Messaging Service, Object Storage, NoSQL Cloudant, 
 - develop that with the ide or a web based ide 
@@ -18,3 +21,4 @@ and test IBM Data Connect
 5) Look for tuyaux for this certification
 
 if time : install eclipse and test the live sync
+
