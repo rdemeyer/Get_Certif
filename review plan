@@ -1,0 +1,20 @@
+Technical Stuff
+
+1)
+- make a node js app, note too hard but fulfilling the twelve factor, with SSO, Data Cache, Messaging Service, Object Storage, NoSQL Cloudant, 
+- develop that with the ide or a web based ide 
+- autoscale the application
+- test de load testing on the application
+- set a specific build and deploy 
+
+and test IBM Data Connect
+
+2) Read and study Blue parts
+
+3) Review Green part
+
+4) Repass the exam
+
+5) Look for tuyaux for this certification
+
+if time : install eclipse and test the live sync
